@@ -36,6 +36,7 @@ google-services.json
 .idea/deploymentTargetSelector.xml
 .idea/deviceManager.xml
 .idea/shelf/
+.idea/vcs.xml
 
 # --- Legacy + OS ---
 *.iml
