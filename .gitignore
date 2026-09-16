@@ -1,0 +1,45 @@
+# --- Gradle / build outputs ---
+.gradle/
+build/
+out/
+captures/
+.kotlin/
+
+# Native
+.externalNativeBuild/
+.cxx/
+
+# --- Local / secrets ---
+local.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+keystore.properties
+google-services.json
+
+# --- Binaries / dumps / logs ---
+*.apk
+*.aab
+*.ap_
+*.dex
+*.hprof
+*.log
+
+# --- IDE ---
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+.idea/deviceManager.xml
+.idea/shelf/
+
+# --- Legacy + OS ---
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
