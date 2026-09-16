@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="./app/src/main/res/drawable/originals/banner.jpg" alt="DroneView logo">
+  <img src="./app/src/main/res/drawable/banner.jpg" alt="DroneView logo">
 
 </p>
 
@@ -14,7 +14,7 @@ This app is a modern substitute of the old *Potensic* app, given that it is not 
 
 <p align="center">
 
-  <img src="./app/src/main/res/drawable/originals/screenshot.jpg" alt="App Screenshot">
+  <img src="./app/src/main/res/drawable/screenshot.jpg" alt="App Screenshot">
 
 </p>
 
